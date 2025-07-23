@@ -32,7 +32,7 @@
 ## ⚙️ Local Setup
 
 ```bash
-git clone https://github.com/Botgagan/portfolio-website.git
+git clone https://github.com/Botgagan/Portfolio-Website.git
 cd portfolio-website
 npm install
 npm run dev
