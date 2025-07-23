@@ -25,7 +25,7 @@
 ---
 
 ## 🔗 Live Preview  
-**→** [https://botgagan.vercel.app](https://botgagan.vercel.app)
+**→** portfolio-website-inky-nine-33.vercel.app
 
 ---
 
