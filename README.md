@@ -1,12 +1,38 @@
-# React + Vite
+<h1 align="center">🚀 My Portfolio Website</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A futuristic personal portfolio powered by React + Vite, styled with Tailwind CSS, and infused with 3D magic. Hosted on <a href="https://botgagan.vercel.app" target="_blank">Vercel</a>.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="https://botgagan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧪 What’s Inside
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✨ 3D astronaut model from [Sketchfab](https://sketchfab.com/)
+- 🌍 Interactive globe, orbiting circles & marquee via [Magic UI](https://magicui.design/)
+- 🧠 FlipWords animation from [Acertinity](https://github.com/acertinity/flipwords)
+- 🖼️ Parallax hero section with layered images
+- 📬 Contact form integrated with [EmailJS](https://www.emailjs.com/)
+- 💅 Fully responsive and fast thanks to Vite + Tailwind
+
+---
+
+## 🔗 Live Preview  
+**→** [https://botgagan.vercel.app](https://botgagan.vercel.app)
+
+---
+
+## ⚙️ Local Setup
+
+```bash
+git clone https://github.com/Botgagan/portfolio-website.git
+cd portfolio-website
+npm install
+npm run dev
