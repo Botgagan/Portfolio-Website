@@ -25,7 +25,7 @@
 ---
 
 ## 🔗 Live Preview  
-**→** portfolio-website-inky-nine-33.vercel.app
+**→** https://portfolio-website-inky-nine-33.vercel.app/
 
 ---
 
